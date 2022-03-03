@@ -1,0 +1,4 @@
+black==22.1.0
+pandas==1.4.1
+Pillow==9.0.1
+XlsxWriter==3.0.3
